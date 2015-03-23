@@ -1,0 +1,42 @@
+{
+  "name": "1VK",
+  "version": "1.0.0",
+  "description": "smart and efficient sdk for vk.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZigGreen/1VK.git"
+  },
+  "keywords": [
+    "vk",
+    "vkapi",
+    "vkcom",
+    "vk.com",
+    "vkontakte",
+    "vksdk",
+    "sdk",
+    "api"
+  ],
+  "author": "ZigGreen <krisstal.mail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZigGreen/1VK/issues"
+  },
+  "homepage": "https://github.com/ZigGreen/1VK",
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "exorcist": "^0.1.6",
+    "gulp": "^3.8.11",
+    "gulp-uglify": "^1.1.0",
+    "gulp-util": "^3.0.4",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.6.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.2",
+    "when": "^3.7.2"
+  }
+}
