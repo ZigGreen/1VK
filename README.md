@@ -24,7 +24,7 @@ for (var i=0; i<1e3; i=i+1)
 ```
 
 ### With node
-You can use any open api like library (`function (methodName, patams, callback)`)
+You can use any open api like library (`function (methodName, params, callback)`)
 
 ### Docs
 Please read source code. The code is pretty simple and jsdoc annotated.
