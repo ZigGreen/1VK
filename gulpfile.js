@@ -10,7 +10,7 @@ var gulp = require('gulp')
 
 
 var publicDir = './dist'
-    , bundleName = '1VK.js'
+    , bundleName = '1vk.js'
     , bundleMainPath = './index.js'
     , mapfileName = bundleName + '.map'
     , mapfilePath = path.join(publicDir, mapfileName)

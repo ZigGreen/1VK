@@ -1,6 +1,6 @@
 {
-  "name": "1VK",
-  "version": "1.0.0",
+  "name": "1vk",
+  "version": "1.0.1",
   "description": "smart and efficient sdk for vk.com API",
   "main": "index.js",
   "scripts": {

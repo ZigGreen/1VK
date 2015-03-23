@@ -1,4 +1,4 @@
-# 1VK
+# 1vk
 **Smart and efficient sdk for vk.com API**
 ## Behind the scene:
 1. It uses `execute` api method to perform more api calls per permitted time interval.
@@ -6,7 +6,7 @@
 
 
 ## Install
-`` npm i 1VK --save ``
+`` npm i 1vk --save ``
 
 ## How to use
 ### With browser (vk.com open api sdk)
