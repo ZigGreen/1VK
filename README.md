@@ -2,7 +2,7 @@
 **Smart and efficient sdk for vk.com API**
 ## Behind the scene:
 1. It uses `execute` api method to perform more api calls per permitted time interval.
-2. It handles "Too many requests per second" error thus you no more need concern about it.
+2. It handles "Too many requests per second" error thus you no more need to concern about it.
 
 
 ## Install
