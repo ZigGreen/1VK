@@ -26,7 +26,7 @@ console.dir(usersFriends);
 ```
 
 ### With node
-You can use any open api like library (`function (methodName, params, callback)`)
+You can use any open api like library (`function api(methodName, params, callback)`)
 
 ### Docs
 Please read source code. The code is pretty simple and jsdoc annotated.
