@@ -1,7 +1,8 @@
 # 1vk
 **Smart and efficient sdk for vk.com API**
 ## Behind the scene:
-1. It uses [execute](https://vk.com/dev/execute) api method to perform more api calls per permitted time interval.
+1. It uses [execute](https://vk.com/dev/execute) api method to perform more api calls per permitted time interval.<br/>
+In fact, you have only [3 request per second](https://vk.com/dev/api_requests) permitted but **with 1vk you get up to 75  request per second**
 2. It handles "Too many requests per second" error thus you no more need to concern about it.
 
 
